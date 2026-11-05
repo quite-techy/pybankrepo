@@ -1,10 +1,1 @@
-PY BANK - Required Python package
-=================================
-
-Install Streamlit with this command:
-
-pip install streamlit>=1.32
-
-Then run the application with:
-
-streamlit run py_bank_fixed.py
+streamlit>=1.32
